@@ -92,7 +92,3 @@ export default function Weather() {
     </div>
   );
 }
-
-/**
- * https://api.openweathermap.org/data/2.5/weather?q=Dallas&appid=c86cc5f759f958c90792e6679bcb9758
- */
